@@ -7,6 +7,8 @@ and product profitability across regions and subcategories.
 ## Live Dashboard
 - [Sales Dashboard](https://public.tableau.com/views/sales-performance-dashboard_17829834166370/SalesDashboard)
 - [Customer Dashboard](https://public.tableau.com/views/sales-performance-dashboard_17829834166370/CustomerDashboard)
+- 
+- >Screenshots below show 2023 data. The dashboards are fully dynamic and support any year from 2020 to 2023-visit the live links above to expore other years
 - ![Sales Dashboard](Sales%20Dashboard.png)
 - ![Customers Dashboard](Customer%20Dashboard.png)
 
@@ -17,7 +19,7 @@ with no easy way to compare years, identify trends, or make fast
 data-driven decisions.
 
 **Solution:** A dynamic dual-dashboard in Tableau Public allowing users to 
-filter by year, product category/subcategory, and location — with seamless 
+filter by year, product category/subcategory, and location , with seamless 
 navigation between Sales and Customer views.
 
 ## Tools & Skills
@@ -39,7 +41,7 @@ navigation between Sales and Customer views.
 - Sparkline charts with highest/lowest month indicators
 - Bar-in-bar subcategory comparison (CY Sales vs PY Sales + Profit/Loss)
 - Weekly Sales & Profit trends with above/below average highlights
-- Dynamic year parameter — select any year from 2020–2023
+- Dynamic year parameter: select any year from 2020–2023
 
 ### Customer Dashboard
 - KPI BANs: Total Customers (693 ▲8.6%), Sales Per Customer ($1,058 ▲10.8%), 
